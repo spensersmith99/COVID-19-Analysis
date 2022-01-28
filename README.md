@@ -9,4 +9,7 @@ Most of my work was centered around querying the dataset to find key information
 ![Reference my queries for this project here](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/covid19_queries.sql)
 
 ## Tableau
+Next, I created a dashboard in Tableau to help visualize some of my most important findings. 
+
+![If you have Tableau installed, click here to access the workbook](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2.twbx)
 
