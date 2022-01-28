@@ -13,4 +13,7 @@ Next, I created a dashboard in Tableau to help visualize some of my most importa
 
 ![If you have Tableau installed, click here to access the workbook](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2.twbx)
 
-![If you do not, click here for the PDF version](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2_dash.pdf)
+![If you do not, click here to access the PDF version](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2_dash.pdf)
+
+## Conclusion
+COVID-19 has run rampant across the globe reaching over 150 million cases worldwide. While COVID-19 is clearly a highly infectious disease, it only has a mortality rate of about 2%. Although countries such as China and Nigeria have a large population, they had much fewer cases than other large populations such as the United States or India. Due to their high number of cases, it is no surprise that both India and the United States lead the way in total number of vaccinations (for countries actively supplying data on vaccination status). Distinct, daily cases have skyrocketed in early 2022, which could be foreboding another tumultuous year. 
