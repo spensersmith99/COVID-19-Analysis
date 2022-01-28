@@ -6,7 +6,7 @@ My goal for this project was to delve deeper into the statistics surrounding the
 ## SQL (BigQuery)
 Most of my work was centered around querying the dataset to find key information about the coronavirus such as the death and infection rates, global vaccinations, and the total amount of cases worldwide.
 
-https://github.com/spensersmith99/COVID-19-Analysis/blob/main/covid19_queries.sql
+![Reference my queries for this project here](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/covid19_queries.sql)
 
 ## Tableau
 
