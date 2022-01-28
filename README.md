@@ -13,3 +13,4 @@ Next, I created a dashboard in Tableau to help visualize some of my most importa
 
 ![If you have Tableau installed, click here to access the workbook](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2.twbx)
 
+![If you do not, click here for the PDF version](https://github.com/spensersmith99/COVID-19-Analysis/blob/main/project2_dash.pdf)
